@@ -16,5 +16,5 @@ roslaunch navvis_description navvis.launch
 
 ### Optional Parameters:
 
-`use_xacro:=` toggles the use of the xacro file. This is set to false by default, and will accept `true` and `false`
-`publisher_gui:=` toggles the use of the joint-state-publisher-gui. This is set to true by default, and will accept `true` and `false`
+* `use_xacro:=` toggles the use of the xacro file. This is set to false by default, and will accept `true` and `false`
+* `publisher_gui:=` toggles the use of the joint-state-publisher-gui. This is set to true by default, and will accept `true` and `false`
