@@ -1,6 +1,6 @@
 ### Instructions to use the package launch files
 
-In terminal, create the catkin_ws and src directories, and move the package launch files into `src`:
+Create the catkin_ws and src directories, and move the package launch files into `src`:
 ```
 touch catkin_ws/src
 cd catkin_ws
