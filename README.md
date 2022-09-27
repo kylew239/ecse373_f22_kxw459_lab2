@@ -6,7 +6,10 @@ touch catkin_ws/src
 cd catkin_ws
 ```
 
-Run `catkin_make` to build the package
+Build the package:
+```
+catkin_make
+```
 
 Navigate to the `src` directory and run the following:
 ```
